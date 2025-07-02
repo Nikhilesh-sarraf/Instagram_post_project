@@ -14,14 +14,8 @@ body{
   justify-content: center;
   height: 100vh;
 }
-/* 
-img{
-  position: relative;
-  border-radius: 50%;
-  height: 100px;
-  width: 100px;
-  background-color:pink;
-} */
+
+
 
 .image .profile_img{
   background-color: pink;
